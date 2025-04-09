@@ -8,7 +8,7 @@ This project should adhere to the following requirements to succeed:
 # Requirements Nextflow project
 
 - Should be on Github (Please add the link to [`projects.md`](projects.md))
-- Docker and Apptainer compatbility (bonus points if also conda compatible) of all modules
+- Docker and Apptainer compatibility (bonus points if also conda compatible) of all modules
 - Should contain at least 3 modules from tools that weren't covered during the training
     - at least 1 module should contain a custom script
     - at least 1 module should contain an external tool
