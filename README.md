@@ -8,7 +8,7 @@ This project should adhere to the following requirements to succeed:
 # Requirements Nextflow project
 
 - Should be on Github (Please add the link to [`projects.md`](projects.md))
-- Docker and Apptainer compatibility (bonus points if also conda compatible) of all modules. This means that the pipeline should be able to run from start to end using a container engine. See the [docs](https://www.nextflow.io/docs/latest/container.html) for more information.
+- Docker and Apptainer compatibility (bonus points if also conda compatible) of all modules. This means that at least each process should be able to run using a container engine. See the [docs](https://www.nextflow.io/docs/latest/container.html) for more information.
 - Should contain at least 3 modules from tools that weren't covered during the training
     - at least 1 module should contain a custom script written by the student
     - at least 1 module should contain an existing tool not written by the student
