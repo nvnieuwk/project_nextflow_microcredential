@@ -2,4 +2,4 @@
 
 | Contributor names | Link to Github repository |
 | ----------------- | ------------------------- |
-|                   |                           |
+|  Arthur Apostel                 |  https://github.com/arthurapostel/nextflow-project/tree/master                         |
