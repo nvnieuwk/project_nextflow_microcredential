@@ -6,3 +6,4 @@
 |  Ditte Jacobs     | https://github.com/ditjacobs/project_nextflow_microcredential/tree/main# |
 |  Rafael Buono                 |  https://github.com/rabuono/nextflow-project/                         |
 |  Leena Putzeys     | https://github.com/leenput/microcredential-nextflow-project/tree/main |
+|  Dries Debeer     |  https://github.com/ddebeer/nextflow_project |
